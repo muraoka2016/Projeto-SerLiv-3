@@ -21,9 +21,3 @@ Este projeto é uma página web desenvolvida como parte do curso SerLiv. A pági
 
 ![Captura de Tela do Projeto](<./127.0.0.1_5500_index.html%20(5).png>)
 
-## Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
